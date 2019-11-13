@@ -5,7 +5,7 @@
 
 int main() 
 {
-    printf ("Hello, World! \n%s",s);
+    printf ("Hello, World! \n%s",s); //menampilkan kelayar
 
     return 0;
 }
