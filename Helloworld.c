@@ -5,7 +5,7 @@
 
 int main() 
 {
-    printf ("Hello, World! \n%s",s);
+    printf ("Hello, World! \n%s",s);//Menampilkan output
 
     return 0;
 }
